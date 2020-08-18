@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{ABF0D4A7-2665-426A-8392-0147EF2A7474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial2", "Tutorial2\Tutorial2.csproj", "{FA93C6E8-65B4-4FC0-A353-0C5711729BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial3", "Tutorial3\Tutorial3.csproj", "{FE2F8705-6AA5-4BEC-83F6-2E4FA4057F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial4MethodsEnums", "Tutorial4MethodsEnums\Tutorial4MethodsEnums.csproj", "{2ABD5A27-8654-46D8-97B6-7E270C98D2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5ClassesOOP", "Tutorial5ClassesOOP\Tutorial5ClassesOOP.csproj", "{45DFA18E-1DD7-49EE-805B-E6324883A0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial6ConstructorsProperties", "Tutorial6ConstructorsProperties\Tutorial6ConstructorsProperties.csproj", "{CF1D12F2-6B4D-42B7-9C17-219CAC6A95EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial7InheritancePolymorphism", "Tutorial7InheritancePolymorphism\Tutorial7InheritancePolymorphism.csproj", "{8B492D36-34F0-4609-8E42-DACEBCCB3053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF0D4A7-2665-426A-8392-0147EF2A7474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF0D4A7-2665-426A-8392-0147EF2A7474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF0D4A7-2665-426A-8392-0147EF2A7474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF0D4A7-2665-426A-8392-0147EF2A7474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA93C6E8-65B4-4FC0-A353-0C5711729BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA93C6E8-65B4-4FC0-A353-0C5711729BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA93C6E8-65B4-4FC0-A353-0C5711729BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA93C6E8-65B4-4FC0-A353-0C5711729BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2F8705-6AA5-4BEC-83F6-2E4FA4057F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2F8705-6AA5-4BEC-83F6-2E4FA4057F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2F8705-6AA5-4BEC-83F6-2E4FA4057F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2F8705-6AA5-4BEC-83F6-2E4FA4057F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABD5A27-8654-46D8-97B6-7E270C98D2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABD5A27-8654-46D8-97B6-7E270C98D2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABD5A27-8654-46D8-97B6-7E270C98D2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABD5A27-8654-46D8-97B6-7E270C98D2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DFA18E-1DD7-49EE-805B-E6324883A0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DFA18E-1DD7-49EE-805B-E6324883A0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DFA18E-1DD7-49EE-805B-E6324883A0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DFA18E-1DD7-49EE-805B-E6324883A0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1D12F2-6B4D-42B7-9C17-219CAC6A95EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1D12F2-6B4D-42B7-9C17-219CAC6A95EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1D12F2-6B4D-42B7-9C17-219CAC6A95EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1D12F2-6B4D-42B7-9C17-219CAC6A95EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B492D36-34F0-4609-8E42-DACEBCCB3053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B492D36-34F0-4609-8E42-DACEBCCB3053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B492D36-34F0-4609-8E42-DACEBCCB3053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B492D36-34F0-4609-8E42-DACEBCCB3053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
